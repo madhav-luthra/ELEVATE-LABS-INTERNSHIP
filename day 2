@@ -1,0 +1,19 @@
+On Day 2, I focused on building and refining an interactive Tableau dashboard using the Global Superstore dataset. My goal was to uncover actionable insights by visualizing sales and profit trends across various dimensions.
+
+📊 Visualizations Created:
+Regional Sales Performance – Identified top and underperforming regions.
+
+Sales & Profit Over Time – Analyzed monthly trends by product category.
+
+Product Category Sales Breakdown – Used a treemap for granular sub-category analysis.
+
+Top 10 Products by Sales – Highlighted highest revenue-generating products.
+
+Segment-wise Sales & Profit Impact – Compared customer segments' contributions.
+
+🧠 Key Insights:
+Central region and Technology category lead in sales and profit.
+
+Certain sub-categories generate high sales but poor profit.
+
+Consumer segment dominates sales, but Corporate has higher profit margins.
